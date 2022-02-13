@@ -50,7 +50,7 @@
         <repository>
             <id>github</id>
             <name>nhk-easy-entity</name>
-            <url>https://maven.pkg.github.com/nhk-easy/nhk-easy-entity</url>
+            <url>https://maven.pkg.github.com/nhk-news-web-easy/nhk-easy-entity</url>
         </repository>
     </distributionManagement>
 </project>
