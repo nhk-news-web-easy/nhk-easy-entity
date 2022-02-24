@@ -1,4 +1,4 @@
-package com.github.frederick_s.nhk.entity
+package io.github.io.github.nhk_news_web_easy
 
 import javax.persistence.Column
 import javax.persistence.Entity
