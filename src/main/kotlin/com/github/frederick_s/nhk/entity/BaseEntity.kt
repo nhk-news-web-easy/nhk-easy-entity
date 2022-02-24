@@ -1,4 +1,4 @@
-package nhk.easy.entity
+package com.github.frederick_s.nhk.entity
 
 import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType

@@ -1,4 +1,4 @@
-package nhk.easy.entity
+package com.github.frederick_s.nhk.entity
 
 import java.time.Instant
 import javax.persistence.Column
