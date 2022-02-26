@@ -1,1 +1,1 @@
-# nhk-easy-entity
+# nhk-easy-entity [![Java CI with Maven](https://github.com/nhk-news-web-easy/nhk-easy-entity/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nhk-news-web-easy/nhk-easy-entity/actions/workflows/build.yml)
