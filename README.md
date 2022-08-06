@@ -9,3 +9,6 @@ The enties used by [nhk-easy-api](https://github.com/nhk-news-web-easy/nhk-easy-
     <version>1.0.2</version>
 </dependency>
 ```
+
+## License
+[MIT](LICENSE)
