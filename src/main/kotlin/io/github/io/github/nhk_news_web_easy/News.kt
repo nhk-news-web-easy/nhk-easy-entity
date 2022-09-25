@@ -37,6 +37,7 @@ class News : BaseEntity() {
     @Column(length = 200)
     var imageUrl = ""
 
+    @Column
     var publishedAtUtc = Instant.now()
 
     @Transient
