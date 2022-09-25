@@ -11,5 +11,6 @@ class WordDefinition : BaseEntity() {
     @Column(length = 2000)
     var definitionWithRuby = ""
 
+    @Column
     var wordId = 0
 }

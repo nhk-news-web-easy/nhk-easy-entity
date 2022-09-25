@@ -16,6 +16,9 @@ class News : BaseEntity() {
     @Column(length = 500)
     var titleWithRuby = ""
 
+    @Column(length = 1000)
+    var outline = ""
+
     @Column(length = 2000)
     var outlineWithRuby = ""
 

@@ -5,8 +5,10 @@ import javax.persistence.Entity
 
 @Entity
 class NewsWord : BaseEntity() {
+    @Column
     var newsId = 0
 
+    @Column
     var wordId = 0
 
     @Column(length = 10)
