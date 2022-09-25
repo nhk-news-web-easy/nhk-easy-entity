@@ -6,7 +6,7 @@ The enties used by [nhk-easy-api](https://github.com/nhk-news-web-easy/nhk-easy-
 <dependency>
     <groupId>io.github.nhk-news-web-easy</groupId>
     <artifactId>nhk-easy-entity</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
 </dependency>
 ```
 
