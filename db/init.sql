@@ -33,7 +33,7 @@ CREATE TABLE `news` (
   `title` varchar(50) DEFAULT NULL,
   `title_with_ruby` varchar(500) DEFAULT NULL,
   `url` varchar(200) DEFAULT NULL,
-  `body_without_ruby` text,
+  `body_without_html` text,
   `outline` varchar(1000) DEFAULT NULL,
   PRIMARY KEY (`id`),
   KEY `news_published_at_utc_index` (`published_at_utc`),
