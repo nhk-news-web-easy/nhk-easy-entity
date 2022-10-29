@@ -26,7 +26,7 @@ class News : BaseEntity() {
     var body = ""
 
     @Column(columnDefinition = "text")
-    var bodyWithoutRuby = ""
+    var bodyWithoutHtml = ""
 
     @Column(length = 200)
     var url = ""
