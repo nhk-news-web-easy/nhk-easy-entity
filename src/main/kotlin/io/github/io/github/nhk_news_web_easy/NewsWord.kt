@@ -11,6 +11,6 @@ class NewsWord : BaseEntity() {
     @Column
     var wordId = 0
 
-    @Column(length = 10)
+    @Column
     var idInNews = ""
 }
