@@ -50,7 +50,7 @@ DROP TABLE IF EXISTS `news_word`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `news_word` (
   `id` int NOT NULL AUTO_INCREMENT,
-  `id_in_news` varchar(10) DEFAULT NULL,
+  `id_in_news` varchar(20) DEFAULT NULL,
   `news_id` int NOT NULL,
   `word_id` int NOT NULL,
   PRIMARY KEY (`id`),
