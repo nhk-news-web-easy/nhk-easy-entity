@@ -19,7 +19,7 @@ class News : BaseEntity() {
     @Column(length = 1000)
     var outline = ""
 
-    @Column(length = 2000)
+    @Column(columnDefinition = "text")
     var outlineWithRuby = ""
 
     @Column(columnDefinition = "text")

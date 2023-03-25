@@ -28,7 +28,7 @@ CREATE TABLE `news` (
   `image_url` varchar(200) DEFAULT NULL,
   `m3u8url` varchar(200) DEFAULT NULL,
   `news_id` varchar(50) DEFAULT NULL,
-  `outline_with_ruby` varchar(2000) DEFAULT NULL,
+  `outline_with_ruby` text DEFAULT NULL,
   `published_at_utc` datetime(6) DEFAULT NULL,
   `title` varchar(50) DEFAULT NULL,
   `title_with_ruby` varchar(500) DEFAULT NULL,
